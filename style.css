@@ -1,0 +1,19 @@
+.display-inline {
+  display: inline !important;
+}
+
+.display-inline_block {
+  display: inline-block !important;
+}
+
+.display-block {
+  display: block !important;
+}
+
+.display-table {
+  display: table !important;
+}
+
+.display-table_cell {
+  display: table-cell !important;
+}
