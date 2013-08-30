@@ -1,0 +1,8 @@
+{
+  "name": "css-display",
+  "repo": "enricomarino/css-display",
+  "version": "0.0.1",
+  "styles": ["style.css"],
+  "author": "Enrico Marino",
+  "license": "MIT"
+}
